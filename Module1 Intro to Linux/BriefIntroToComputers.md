@@ -1,3 +1,11 @@
+# Brief Intro to Computers
+"Well its the thing I'm using right?" Well yes! That's definitely a way to look at it, but we are trying to go for a deeper understanding. To try and peel away layers of complexity from your flourescent screen, we should try to ask questions about it like
+- "What is computation"
+- "How am I accessing this lesson right now"
+- "How does a mouse click get processed?"
+
+All very important questions that, in order to explore deeply, requires us to first build a baseline foundation.
+
 ## What is a Computer
 
 In the most basic sense, a computer is a very long series of complicated circuits that perform operations extraordinarily fast. As a review from the IT Fundamentals Course, the basic order of operations for a program being loaded is...

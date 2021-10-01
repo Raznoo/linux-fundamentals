@@ -1,3 +1,5 @@
+# Intro to Linux
+
 Now that we have an understanding of what an operating system is as well as an idea of what segments of an operating system perform what operations, where does the word Linux fit into this mix?
 
 ## What is Linux?
