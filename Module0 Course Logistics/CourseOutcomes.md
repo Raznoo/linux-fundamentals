@@ -1,0 +1,46 @@
+**Example Module**
+- Example topic
+- Another example topic
+	- Specific lesson within topic
+
+By the end of the course a student should...
+- **Understand the difference between Linux based operating systems and others**
+	- Develop a basic understanding of the different layers of an operating system
+		- This is important to understanding what a shell is and how the linux shell is different
+	- Features of linux that are unique
+	- Benefits of open source software
+	- Use cases for different distributions
+	- What jobs use Linux and why
+- **Understand how to install a linux environment on several platforms**
+	- Understand where to get ISO images of several linux distros
+	- walkthrough of VMware / virtualbox setup
+		- Maybe what virtualization is recap
+	- Alternative setups like AWS
+- **Understand how to navigate the Linux command line**
+	- Introduction to file system (table for reference but emphasize important directories)
+	- Basic linux commands
+		- Basic commands
+		- How commands are executed (tracing the PATH)
+		- How arguments are passed into a shell and text channels (piping and redirection)
+		- Using switches and flags
+	- Shell scripting
+	- Text editing (vi/vim, nano)
+	- Cron jobs
+- **Basic understanding of networking in linux**
+	- relevant files (/etc/hosts)
+	- Use cases for IPtables, ssh, nc, tcpdump, and other networking tools
+	- Ability to view and edit network information through a command line
+- **User management in linux**
+	- User information storage (/etc/passwd)
+	- user and group permissions (and modification)
+- **How to research help with linux topics**
+	- Man pages, help command, etc
+	- How to navigate stack overflow, google, etc.
+	- other resources that exist for linux training
+		- tryhackme
+		- overthewire
+		- freecodecamp
+		- codewars
+- **Managing process and monitoring system usage**
+	- PID, ps, and other commands
+- 
